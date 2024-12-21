@@ -1,1 +1,1 @@
-GIT_HOME=/mnt/d/personal/repos
+GIT_HOME=~/personal/repos
